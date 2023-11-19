@@ -78,4 +78,3 @@ class User extends Authenticatable
         return 'profile/username';
     }
 }
-https://github.com/jahirtrujillo/Proyecto1.git 
