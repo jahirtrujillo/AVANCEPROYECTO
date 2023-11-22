@@ -319,7 +319,7 @@ return [
         ['header' => 'account_settings'],
         [
             'text' => 'Compras',
-            'url'  => 'admin/settings',
+            'url'  => '/cursos',
             'icon' => 'fas fa-fw fa-shopping-cart',
         ],
         [
